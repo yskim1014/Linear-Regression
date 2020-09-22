@@ -1,4 +1,2 @@
 # Linear-Regression
-```math
-SE = H\left(X\right)\ =\ WX\ +\ b\ 가\ 된다.
-```
+- <img src="https://latex.codecogs.com/gif.latex?H\left(X\right)=WX+b"/>
